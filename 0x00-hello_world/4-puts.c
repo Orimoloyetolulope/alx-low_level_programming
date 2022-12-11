@@ -1,14 +1,12 @@
 #include <stdio.h>
-
-/**
- * main - printing my first C program using puts function
+/*
+ * main - my first C code using puts
  *
- * return: 0
- *
+ * Return: 0
 */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
+
