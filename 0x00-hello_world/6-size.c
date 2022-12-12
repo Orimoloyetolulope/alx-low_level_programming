@@ -1,12 +1,10 @@
 #include <stdio.h>
-
 /**
  * main - print size of various types
  *
  * Return: 0
  *
 */
-
 int main(void)
 {
 	char a;
