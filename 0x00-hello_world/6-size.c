@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
- * main - print size of various types
- *
+ * main - print out sizes of data types in C
+ * code by Tohluh122
  * Return: 0
- *
 */
 int main(void)
 {
-	char a;
+	char a
 	int b;
 	long int c;
 	long long int d;
