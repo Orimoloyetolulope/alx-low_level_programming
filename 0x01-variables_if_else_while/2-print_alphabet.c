@@ -4,7 +4,7 @@
  * main - main block
  * Description: Program that prints the alphabet in lowercase
  * code by Tohluh122
- * Return: 0 
+ * Return: 0
  */
 int main(void)
 {

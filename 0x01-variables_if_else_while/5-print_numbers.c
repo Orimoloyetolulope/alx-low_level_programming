@@ -4,7 +4,7 @@
  * main - main block
  * Description: Prints all single digit numbers of base 10 starting from 0
  * code by Tohluh122
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
