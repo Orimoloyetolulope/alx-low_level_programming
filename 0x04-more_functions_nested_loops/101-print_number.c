@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
  * print_number - prints an integer
- * @n: .input integer parameter
- *
- * owned by Tohluh122
+ * @n:.input integer parameter
+ *  
  */
 
 void print_number(int n)
